@@ -93,4 +93,3 @@ triggers = {
 	    '^###cb:!(friends)',
     }
 }
-.
